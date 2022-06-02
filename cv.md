@@ -40,7 +40,7 @@ TrafficLight.running()
 ```
 *****************
 *Education*<p>
- +University: Belarusian State Medical University<p>
+ +University: Belarusian State Medical University, surgeon<p>
  +Courses: Python - Developer (currently) - GeekBrains<p>
  *****************
 *Languages*:<p>
